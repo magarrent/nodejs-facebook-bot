@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-facebook-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgarcia96/nodejs-facebook-bot.git"
+  },
+  "keywords": [
+    "facebook",
+    "nodejs",
+    "bot"
+  ],
+  "author": "Marc Garcia Torrent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgarcia96/nodejs-facebook-bot/issues"
+  },
+  "homepage": "https://github.com/mgarcia96/nodejs-facebook-bot#readme"
+}
